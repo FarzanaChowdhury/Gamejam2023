@@ -14,3 +14,12 @@ Then got to Assets>Levels>Level1  for the next scene
 Then
 Go to Assets>Scenes>Room1
 Play
+
+
+Credits:
+Image:
+https://www.freepik.com/free-vector/flat-gamer-room-illustration_13530151.htm#query=gamers%20room&position=34&from_view=search&track=sph
+
+Music:
+"8 Bit Think!" Calm Puzzle Chiptune Game Music by HeatleyBros
+https://youtu.be/hdZLNZBZFlY
