@@ -12,5 +12,5 @@ Yes, it was not supposed to do that.
 Then got to Assets>Levels>Level1  for the next scene
 
 Then
-Go to Assets>Sample Scene
+Go to Assets>Scenes>Room1
 Play
